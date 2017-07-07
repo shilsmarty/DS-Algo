@@ -1,0 +1,44 @@
+The time complexity of an algorithm is commonly expressed using big O notation, which excludes coefficients and lower order terms.
+S.No	Term	Called As	Definition
+1	O(1)	Constant Time	Time taken for an operation, fixed number of steps
+			E.g. Push and Pop operations for stack.
+			Enqueue and Deque operations for Queue.
+2	O(log n)	Logarithmic Time	Time taken will double with each additional element in the input data set
+			E.g. Binary Search
+			Insert and Find operations in a Binary Search tree.
+			Insert and Remove operations for a heap
+3	O(n)	Linear Time	A number of steps proportional to the size of the tasks.
+			(If the size of the task increases then no of steps increases)
+			E.g. Finding Max/Min element in a list.
+			Sequencial search in an unsorted list of n elements.
+			Traversal of a tree with n nodes.
+			Calculationg iteratively n-factorial.
+			Finding iteratively the nth Fibonacci number
+4	O(n log n)	Linean Arithmetic	You are performing an O(log n) operation for each item in your input. Also called as Log Linear, or QuasiLinear
+			Most (efficient) sort algorithms are an example of this.
+			O(n log n) . "n log n" time
+			E.g. Quick Sort, Merge Sort
+5	O(n2)	Quadratic Time	The number of operations is proportional to the size of the task squared.
+			E.g. Selection Sort of n elements.
+			Comparing two dimensional arrays of size n by n.
+			Finding duplicates in an unsorted list of n elements
+			(Implemented with two nested loops)
+6	2O(n)	Exponential Time	Which is common for artificial intelligence tasks and is really quite bad. Exponential-time algorithms begin to run the risk of having a decent-sized input not finish before the person wanting the result retires.
+7	O(n!)	Factorial time	 
+ 	Order Best to Worst 	O(1) < O (log n) < O(n) < O (n log n) < O (n2) < O(n3) < O(an)
+ 	Time Complexity	The amount of time taken by an algorithm to run as a function of the length of the string representing the input.
+		Time complexity is commonly estimated by counting the number of elementary operations performed by the algorithm.
+ 	Big O Notation	The time complexity of an algorithm is commonly expressed using Big O notation.
+ 
+Run time matrix for each Big O Term
+
+Input	Constant	Logarithmic	Linear	Linear Arithmatic	Quadratic	Cubic
+N	O(1)	O(log N)	O(N)	O(N log N)	O(N2)	O(N3)
+1	1	1	1	1	1	1
+2	1	1	2	2	4	8
+4	1	2	4	8	16	64
+8	1	3	8	24	64	512
+16	1	4	16	64	256	4,096
+1024	1	10	1,024	10,240	1,048,576	1,073,741,824
+ 
+
