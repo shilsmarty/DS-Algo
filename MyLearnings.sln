@@ -12,8 +12,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LearningDocs", "LearningDoc
 		LearningDocs\DataStructure.one = LearningDocs\DataStructure.one
 		LearningDocs\Notes.txt = LearningDocs\Notes.txt
 		LearningDocs\References.txt = LearningDocs\References.txt
-		LearningDocs\The Technical Interview Cheat Sheet.html = LearningDocs\The Technical Interview Cheat Sheet.html
-		LearningDocs\The Technical Interview Cheat Sheet.md = LearningDocs\The Technical Interview Cheat Sheet.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSDN", "MSDN", "{267DCCC4-FB4C-4E61-85EF-42799630EFC6}"
