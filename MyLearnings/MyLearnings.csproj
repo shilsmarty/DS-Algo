@@ -44,7 +44,9 @@
     <Compile Include="DataStructure\Demo\HashTableDemo.cs" />
     <Compile Include="DataStructure\Generics\BaseNode\NodeList.cs" />
     <Compile Include="DataStructure\Generics\BaseNode\Node.cs" />
+    <Compile Include="DataStructure\Generics\BinaryTree\BinaryTree.cs" />
     <Compile Include="DataStructure\Generics\BinaryTree\BinaryTreeNode.cs" />
+    <Compile Include="DataStructure\Generics\BinaryTree\BinaryTreeDemo.cs" />
     <Compile Include="DataStructure\Generics\CustomTypeSafeList\TypeSafeList.cs" />
     <Compile Include="DataStructure\NonGenerics\Stack\StackOperation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
