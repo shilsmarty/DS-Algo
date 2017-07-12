@@ -54,9 +54,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Algorithm\" />
+    <Folder Include="DataStructure\NonGenerics\ArrayList\" />
     <Folder Include="DataStructure\Trees\" />
     <Folder Include="Maths\" />
-    <Folder Include="Problems\" />
+    <Folder Include="Problems\LeetCode\" />
     <Folder Include="Puzzles\" />
     <Folder Include="Sorting\" />
   </ItemGroup>
