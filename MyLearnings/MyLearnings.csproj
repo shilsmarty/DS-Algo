@@ -40,7 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="LearningsFacade.cs" />
     <Compile Include="DataStructure\Demo\HashTableDemo.cs" />
     <Compile Include="DataStructure\Generics\BaseNode\NodeList.cs" />
     <Compile Include="DataStructure\Generics\BaseNode\Node.cs" />

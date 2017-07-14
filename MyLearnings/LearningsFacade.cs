@@ -1,6 +1,6 @@
 ﻿namespace Learnings.DS.Algo
 {
-    public class Class1
+    public class LearningsFacade
     {
 
     }
