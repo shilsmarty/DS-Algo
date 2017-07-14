@@ -49,6 +49,7 @@
     <Compile Include="DataStructure\Generics\BinaryTree\BinaryTreeNode.cs" />
     <Compile Include="DataStructure\Generics\BinaryTree\BinaryTreeDemo.cs" />
     <Compile Include="DataStructure\Generics\CustomTypeSafeList\TypeSafeList.cs" />
+    <Compile Include="DataStructure\Generics\Stack\Stack.cs" />
     <Compile Include="DataStructure\NonGenerics\Stack\StackOperation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
