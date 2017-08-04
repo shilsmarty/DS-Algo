@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Common\Helper.cs" />
     <Compile Include="DataStructure\Generics\LinkedList\Single\SingleLinkedList.cs" />
     <Compile Include="DataStructure\Generics\LinkedList\Single\SingleLinkedListNode.cs" />
     <Compile Include="LearningsFacade.cs" />
@@ -55,6 +56,7 @@
     <Compile Include="DataStructure\NonGenerics\Stack\StackOperation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sorting\BSTSort.cs" />
+    <Compile Include="Sorting\QuickSortAlgo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Algorithm\" />
